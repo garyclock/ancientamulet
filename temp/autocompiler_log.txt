@@ -1,0 +1,1 @@
+ERROR: Could not open 'D:\game\steam\steamapps\common\Don't Starve Together\mods\gary_test\anim\balloon_pop\compilers.txt'.
